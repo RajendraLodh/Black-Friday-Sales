@@ -14,4 +14,4 @@ Bar graph age & Purchase .
 
 Bar graph Occupation & Purchase .
 
-Bar graph Product category with purchase  & Purchase .
+Bar graph Product category with purchase  & Purchase , and many more.
